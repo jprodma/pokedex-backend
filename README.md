@@ -20,6 +20,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+To run locally you need to use npm install and then npm run start, this will enable the server to run in localhost:8000
 
 ## License
 
