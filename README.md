@@ -1,2 +1,2 @@
-# ribbonTest
-Fullstack developer assingment for Ribbon
+# pokedex-backend
+Nestjs backend for front end in pokedex app
